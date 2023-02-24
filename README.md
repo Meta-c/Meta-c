@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Ahmed a machine learning Engineer and a front-end flutter developer, I am very passionate about the field of AI in general and building models that solves real world problems 
+### I'm Ahmed a AI learning Engineer and a front-end flutter developer, I am very passionate about the field of AI in general and building models that solves real world problems 
 <!--
 **Meta-c/Meta-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
