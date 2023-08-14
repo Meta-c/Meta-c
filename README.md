@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **Building deep learning models** / **Data Science** and [**Bookly App**](https://github.com/Meta-c/bookly/tree/master/bookly)
+- 🔭 I’m currently working as **Data scientist @ Valeo**
 - 🌱 I’m currently learning [**Tensorflow Certificate**]( https://github.com/Meta-c/Tensorflow-Certificate-preparation)
 - 📫 How to reach me: ahmedmedhat10122@gmail.com
 
